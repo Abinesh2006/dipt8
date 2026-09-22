@@ -99,6 +99,7 @@ plt.title("Original Grayscale Image")
 plt.axis("off")
 plt.show()
 ```
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/33b46ead-6fe1-4ce0-83cd-c182fe593ad7" />
 
 
 ### Global Thresholding
