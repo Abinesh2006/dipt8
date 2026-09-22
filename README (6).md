@@ -65,9 +65,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** SANJITH R
+**Name:** ABinesh M
 
-**Register No:** 212223230191
+**Register No:** 212224040009
 
 ## Output
 ### Original Image
@@ -86,7 +86,7 @@ else:
     plt.axis("off")
     plt.show()
 ```
-<img width="803" height="550" alt="image" src="https://github.com/user-attachments/assets/689c53bf-471e-4347-a783-a63040a7376b" />
+<img width="148" height="210" alt="image" src="https://github.com/user-attachments/assets/0db288c7-1ab5-41d1-91c6-e15d6e613517" />
 
 
 ### Original Grayscale Image
@@ -99,7 +99,6 @@ plt.title("Original Grayscale Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="792" height="542" alt="image" src="https://github.com/user-attachments/assets/9b2fc011-dc02-432f-b42a-1eeba86a1648" />
 
 
 ### Global Thresholding
@@ -113,7 +112,7 @@ plt.title("Global Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="805" height="555" alt="image" src="https://github.com/user-attachments/assets/5e60a45a-3b6b-4e45-a029-25f49f231e29" />
+<img width="484" height="469" alt="image" src="https://github.com/user-attachments/assets/7661fa94-7c1f-4b75-abed-e432593361eb" />
 
 
 ### Adaptive Thresholding
@@ -133,7 +132,7 @@ plt.title("Adaptive Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="802" height="547" alt="image" src="https://github.com/user-attachments/assets/b5d02b84-a26b-4f84-8521-53c9e4c26b16" />
+<img width="484" height="469" alt="image" src="https://github.com/user-attachments/assets/caddbe72-d307-4878-8e9d-0bf5b8f20fb8" />
 
 ### Otsu's Thresholding
 ```
@@ -149,7 +148,7 @@ plt.title("Otsu's Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="793" height="540" alt="image" src="https://github.com/user-attachments/assets/340634ba-c933-4fca-9213-413456fe5654" />
+<img width="484" height="469" alt="image" src="https://github.com/user-attachments/assets/bd66d1b7-dfbf-4a35-a15f-bca2869e4d02" />
 
 
 ## Result
